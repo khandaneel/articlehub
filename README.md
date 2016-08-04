@@ -1,1 +1,0 @@
-# egen-fe-challenge
